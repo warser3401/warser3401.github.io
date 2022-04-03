@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Instagram Bot](/sample_page)
-<img src="images/Instagram_flow.jpg?raw=true"/>
+<img src="images/Instagram_flow.jpg?"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
